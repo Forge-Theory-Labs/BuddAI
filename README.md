@@ -471,3 +471,9 @@ python buddai_server.py --server
 ```
 
 **Your journey to 10x capability starts now.** ⚡
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
